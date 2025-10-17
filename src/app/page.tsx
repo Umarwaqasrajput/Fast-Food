@@ -18,8 +18,8 @@ export default function Home() {
         </h1>
 
         <p className="text-slate-300 max-w-xl">
-          Fast Food Café brings you fresh, hot and flavourful meals made with care.
-          From hand-pressed patties to oven-fresh pizzas and crunchy sides — every bite is crafted to delight.
+          Fast Food Cafe brings you fres hot and flavourful meals made with care.
+          From hand pressed patties to oven-fresh pizzas and crunchy sides  every bite is crafted to delight.
         </p>
 
         <div className="flex items-center gap-6 mt-4">
@@ -30,9 +30,9 @@ export default function Home() {
 
           <div>
             <div className="font-semibold text-lg">Umar Waqas Rajput</div>
-            <div className="text-sm text-slate-300">Founder & Chef — Fast Food Café</div>
+            <div className="text-sm text-slate-300">Founder & Chef  Fast Food Café</div>
             <p className="mt-3 text-slate-300 max-w-md">
-              I started Fast Food Café to bring bold flavors and fast delivery together. We focus on quality ingredients and quick service.
+              I started Fast Food Cafe to bring bold flavors and fast delivery together. We focus on quality ingredients and quick service.
             </p>
           </div>
         </div>
@@ -53,7 +53,7 @@ export default function Home() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="card p-4">
             <h3 className="font-semibold text-lg">Hot & Fresh</h3>
-            <p className="text-slate-300 text-sm mt-2">Prepared to order, delivered piping hot.</p>
+            <p className="text-slate-300 text-sm mt-2">Prepared to order delivered piping hot.</p>
           </div>
 
           <div className="card p-4">
@@ -63,8 +63,8 @@ export default function Home() {
         </div>
 
         <div className="card p-4">
-          <h3 className="font-semibold text-lg">Chef's Special</h3>
-          <p className="text-slate-300 text-sm mt-2">Signature burgers and limited-time combos.</p>
+          <h3 className="font-semibold text-lg">Chefs Special</h3>
+          <p className="text-slate-300 text-sm mt-2">Signature burgers and limited time combos.</p>
           <div className="mt-4">
             <img src="/cc.jpg" alt="Chef special" className="w-full rounded-md object-cover h-100" />
           </div>
